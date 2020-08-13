@@ -1,0 +1,15 @@
+{
+  "name": "setup-api",
+  "version": "1.0.0",
+  "description": "Setup Wifi api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Obediah Klopfenstein",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "iwlist": "0.0.5"
+  }
+}
